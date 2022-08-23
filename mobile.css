@@ -1,0 +1,9 @@
+#what items item {
+    display: flex;
+    align-items: left;
+}
+#what items item i {
+ margin: 1.3rem;
+ margin-bottom: 0;
+ align-self: center;
+ }
